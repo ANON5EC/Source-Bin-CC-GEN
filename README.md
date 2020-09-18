@@ -1,7 +1,6 @@
 # Source-Bin-CC-GEN
 sourcebincc cc gen Source Code
-# NAMSO-GEN-2020
-NamsoGen random credit card numbers generator based on your own BIN pattern.
+sourcebincc cc gen new upgraded version instantly Generates valid random credit card numbers ; details like CCV. that complies with Luhn's algorithm
 
 Join Forum - [Black Hat Forum](https://fssquad.com/)
 
