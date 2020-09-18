@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163.01mm" height="147.58mm" version="1.1" viewBox="0 0 163.01 147.58" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>bin_searcher</title>
+ <defs>
+  <linearGradient id="linearGradient2805" x1="574.72" x2="574.72" y1="713.31" y2="358.2" gradientTransform="matrix(.26855 0 0 .26458 -54.687 .68832)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="gray" stop-opacity=".25" offset="0"/>
+   <stop stop-color="gray" stop-opacity=".12" offset=".54"/>
+   <stop stop-color="gray" stop-opacity=".1" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>bin_searcher</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-31.731 -72.087)">
+  <g transform="matrix(.77256 0 0 .77256 -73.826 205.49)" fill="none" stroke="#727e8c" stroke-dasharray="3.17499996" stroke-miterlimit="10" stroke-width=".52917">
+   <circle cx="237.37" cy="-77.159" r="78.581"/>
+   <circle cx="237.37" cy="-77.159" r="95.25"/>
+  </g>
+  <g transform="translate(-113.56 234.84)" stroke-width=".26656">
+   <path transform="translate(122.46,-229.81)" d="m170.06 95.462h-140.81a6.4156 6.3209 0 0 0-6.4156 6.3209v81.314a6.4156 6.3209 0 0 0 6.4156 6.3209h140.81a6.4156 6.3209 0 0 0 6.4156-6.3209v-81.314a6.4156 6.3209 0 0 0-6.4156-6.3209z" fill="url(#linearGradient2805)"/>
+   <rect transform="translate(122.46,-229.81)" x="24.64" y="96.568" width="150.02" height="91.744" rx="6.6627" ry="6.5643" fill="#5a8dee"/>
+   <rect transform="translate(122.46,-229.81)" x="24.64" y="112.62" width="150.02" height="16.82" fill="#338fff"/>
+   <rect transform="translate(122.46,-229.81)" x="24.64" y="112.62" width="150.02" height="16.82" opacity=".3"/>
+   <rect transform="translate(122.46,-229.81)" x="38.867" y="141.93" width="121.57" height="8.1545" fill="#d6d6e3"/>
+   <ellipse transform="translate(122.46,-229.81)" cx="48.954" cy="170.47" rx="11.899" ry="11.724" fill="#338fff"/>
+   <ellipse transform="translate(122.46,-229.81)" cx="48.954" cy="170.47" rx="11.899" ry="11.724" opacity=".3"/>
+  </g>
+  <g transform="matrix(.80022 0 0 .7954 228.36 -17.372)" fill="#b3b3b3">
+   <path d="m-88.779 132.31a31.905 32.387 0 1 0 1.8089 47.83l39.135 33.521a2.9401 2.9844 0 1 0 3.792-4.5618l-39.135-33.521a31.907 32.388 0 0 0-5.6009-43.268zm-2.5229 40.04a23.903 24.264 0 1 1-2.8537-34.192 23.903 24.264 0 0 1 2.8537 34.192z" fill="#b3b3b3" stroke-width=".23808"/>
+  </g>
+  <path d="m128.34 122.02a19.129 19.301 0 0 1-3.2459-25.945q-0.54859 0.55744-1.0607 1.1676a19.128 19.3 0 1 0 29.238 24.893q0.51093-0.61095 0.96227-1.2514a19.129 19.3 0 0 1-25.894 1.1365z" fill="#333" opacity=".3" stroke-width=".18994"/>
+ </g>
+</svg>

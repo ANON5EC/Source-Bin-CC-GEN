@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.76862mm"
+   height="10.571036mm"
+   viewBox="0 0 36.76862 10.571036"
+   version="1.1"
+   id="svg982"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="luminati.svg">
+  <title
+     id="title1660">luminati</title>
+  <defs
+     id="defs976" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1210938"
+     inkscape:cx="152.78264"
+     inkscape:cy="-40.845509"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g1622"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="972"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata979">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>luminati</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-93.953898,-127.45525)">
+    <g
+       id="g1622">
+      <g
+         id="g1658"
+         transform="translate(4.4840883,-26.90453)">
+        <path
+           data-name="Path 1"
+           class="cls-1"
+           d="m 100.05156,162.26923 v -3.84783 h -1.068916 v 4.80986 h 3.634056 l -0.42757,-0.96203 z"
+           id="Path_1"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Path 2"
+           class="cls-1"
+           d="m 104.86142,161.94882 a 0.82417707,0.82417707 0 0 1 -0.53446,0.32067 c -0.32067,0 -0.53446,-0.19235 -0.53446,-0.64135 v -1.60337 h -1.06891 v 1.71026 c 0,0.87657 0.55562,1.44304 1.3253,1.44304 a 1.2594167,1.2594167 0 0 0 0.81227,-0.26723 v 0.21378 h 1.06891 v -3.09985 h -1.06891 z"
+           id="Path_2"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Path 3"
+           class="cls-1"
+           d="m 110.51557,159.99275 a 1.5160625,1.5160625 0 0 0 -1.05834,0.4498 1.4131396,1.4131396 0 0 0 -0.99404,-0.4498 1.2964583,1.2964583 0 0 0 -0.82312,0.34211 l -0.10583,-0.32067 h -0.96282 v 3.09959 h 1.06892 v -1.9132 a 0.72760416,0.72760416 0 0 1 0.53446,-0.32068 c 0.3421,0 0.53446,0.21379 0.53446,0.64135 v 1.60338 h 1.06891 v -1.92405 a 0.74744791,0.74744791 0 0 1 0.53446,-0.32068 c 0.34211,0 0.53446,0.21379 0.53446,0.64135 v 1.60338 h 1.06892 v -1.71027 a 1.3694833,1.3694833 0 0 0 -1.31472,-1.41076 h -0.0106 a 0.18176875,0.18176875 0 0 0 -0.0751,-0.0109 z"
+           id="Path_3"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Rectangle 2"
+           class="cls-1"
+           d="m 112.55709,160.02477 h 1.06892 v 3.09959 h -1.06892 z"
+           id="Rectangle_2"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Path 4"
+           class="cls-1"
+           d="m 116.23401,159.99276 a 1.6031104,1.6031104 0 0 0 -0.89773,0.34211 l -0.10584,-0.32068 h -0.96308 v 3.10065 h 1.06892 v -1.91426 a 0.78978124,0.78978124 0 0 1 0.64135,-0.32067 c 0.3421,0 0.53445,0.21378 0.53445,0.64135 v 1.60337 h 1.06892 v -1.81715 c -2.6e-4,-0.88715 -0.56674,-1.31472 -1.34699,-1.31472 z"
+           id="Path_4"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Path 5"
+           class="cls-1"
+           d="m 120.35965,160.23855 a 1.4681729,1.4681729 0 0 0 -0.81227,-0.23521 h -0.0214 a 1.6105187,1.6105187 0 0 0 0.0214,3.21733 1.47955,1.47955 0 0 0 0.81227,-0.29924 v 0.21378 h 1.06892 v -3.11044 h -1.06892 z m 0,1.81716 a 0.76729166,0.76729166 0 0 1 -1.38959,-0.39555 v -0.0323 c 0,-0.53446 0.32068,-0.85513 0.74824,-0.85513 a 0.73607082,0.73607082 0 0 1 0.64135,0.32067 z"
+           id="Path_5"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Path 6"
+           class="cls-1"
+           d="m 123.98312,162.21578 h -0.10583 a 0.43100624,0.43100624 0 0 1 -0.41698,-0.44979 v -0.88609 h 1.06891 v -0.85513 h -1.06891 v -1.06892 h -1.06892 v 1.06892 h -0.53525 v 0.85513 h 0.53446 v 0.85408 c 0,0.85513 0.55562,1.44304 1.30386,1.44304 a 2.8045833,2.8045833 0 0 0 0.9406,-0.16034 l -0.10584,-0.85514 a 1.8901833,1.8901833 0 0 1 -0.5461,0.0542 z"
+           id="Path_6"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Rectangle 3"
+           class="cls-1"
+           d="m 125.16951,160.02477 h 1.06892 v 3.09959 h -1.06892 z"
+           id="Rectangle_3"
+           inkscape:connector-curvature="0"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <circle
+           data-name="Ellipse 1"
+           class="cls-1"
+           r="0.53445834"
+           cy="158.84895"
+           cx="113.09155"
+           id="Ellipse_1"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <circle
+           data-name="Ellipse 2"
+           class="cls-1"
+           r="0.53445834"
+           cy="158.84895"
+           cx="125.70397"
+           id="Ellipse_2"
+           style="fill:#013c5a;fill-opacity:1;stroke-width:0.26458332" />
+        <path
+           data-name="Path 7"
+           class="cls-2"
+           d="m 96.085986,161.40351 c -0.08546,-1.15437 -0.801688,-1.9132 -0.801688,-2.66144 a 1.1292417,1.1292417 0 0 1 0.299244,-0.82312 0.64240833,0.64240833 0 1 0 -0.940594,-0.0529 0.75009374,0.75009374 0 0 1 0.01058,0.99404 0.96784582,0.96784582 0 0 1 -1.122363,0.11747 0.97313749,0.97313749 0 0 1 -0.160337,-1.43219 0.85407499,0.85407499 0 1 0 -1.207823,-0.0214 l 0.02143,0.0214 c 0.459581,0.43815 0.245798,1.22925 -0.299244,1.48564 a 0.74744791,0.74744791 0 0 1 -0.833702,-0.11748 c -0.128323,-0.13891 -0.170921,-0.49159 -0.406135,-0.49159 -0.149754,0 -0.267229,0.1389 -0.320675,0.53445 -0.106627,0.85461 -0.854869,1.49596 -0.854869,2.66092 a 3.3135095,3.3135095 0 0 0 6.627019,0 1.4324541,1.4324541 0 0 0 -0.01085,-0.21379 z"
+           id="Path_7"
+           inkscape:connector-curvature="0"
+           style="fill:#00d2e6;stroke-width:0.26458332" />
+        <circle
+           data-name="Ellipse 3"
+           class="cls-2"
+           r="0.58790416"
+           cy="157.35274"
+           cx="90.592178"
+           id="Ellipse_3"
+           style="fill:#00d2e6;stroke-width:0.26458332" />
+        <circle
+           data-name="Ellipse 4"
+           class="cls-2"
+           r="0.53445834"
+           cy="154.89424"
+           cx="92.783455"
+           id="Ellipse_4"
+           style="fill:#00d2e6;stroke-width:0.26458332" />
+        <path
+           data-name="Path 11"
+           class="cls-3"
+           d="m 94.921025,161.52125 a 2.1378333,2.1378333 0 0 1 -4.275402,0 h -0.427567 a 2.5664583,2.5664583 0 1 0 5.130536,0 z"
+           id="Path_11"
+           inkscape:connector-curvature="0"
+           style="fill:#003d5b;stroke-width:0.26458332" />
+        <ellipse
+           ry="0.64134997"
+           rx="0.48101249"
+           data-name="Ellipse 8"
+           class="cls-3"
+           cy="160.8799"
+           cx="91.554199"
+           id="Ellipse_8"
+           style="fill:#003d5b;stroke-width:0.26458332" />
+        <ellipse
+           ry="0.64134997"
+           rx="0.48101249"
+           data-name="Ellipse 9"
+           class="cls-3"
+           cy="160.8799"
+           cx="94.012444"
+           id="Ellipse_9"
+           style="fill:#003d5b;stroke-width:0.26458332" />
+      </g>
+    </g>
+  </g>
+</svg>

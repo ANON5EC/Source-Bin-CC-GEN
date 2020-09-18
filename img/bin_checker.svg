@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="163.01mm" height="147.58mm" version="1.1" viewBox="0 0 163.01 147.58" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <title>bin_checker</title>
+ <defs>
+  <linearGradient id="linearGradient2805" x1="574.72" x2="574.72" y1="713.31" y2="358.2" gradientTransform="matrix(.26855 0 0 .26458 -54.687 .68832)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="gray" stop-opacity=".25" offset="0"/>
+   <stop stop-color="gray" stop-opacity=".12" offset=".54"/>
+   <stop stop-color="gray" stop-opacity=".1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="484e0702-271c-4dc9-aca2-bd1f83d5b37c" x1="352.52" x2="352.52" y1="380.93" y2="201.04" gradientTransform="translate(.01 -.01)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="gray" stop-opacity=".25" offset="0"/>
+   <stop stop-color="gray" stop-opacity=".12" offset=".54"/>
+   <stop stop-color="gray" stop-opacity=".1" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>bin_checker</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-31.731 -72.087)">
+  <g transform="translate(-108.87 260.45)">
+   <g transform="translate(-4.6942 -25.605)">
+    <g transform="matrix(.77256 0 0 .77256 39.738 -29.353)" fill="none" stroke="#727e8c" stroke-dasharray="3.17499996" stroke-miterlimit="10" stroke-width=".52917">
+     <circle cx="237.37" cy="-77.159" r="78.581"/>
+     <circle cx="237.37" cy="-77.159" r="95.25"/>
+    </g>
+    <g stroke-width=".26656">
+     <path transform="translate(122.46,-229.81)" d="m170.06 95.462h-140.81a6.4156 6.3209 0 0 0-6.4156 6.3209v81.314a6.4156 6.3209 0 0 0 6.4156 6.3209h140.81a6.4156 6.3209 0 0 0 6.4156-6.3209v-81.314a6.4156 6.3209 0 0 0-6.4156-6.3209z" fill="url(#linearGradient2805)"/>
+     <rect transform="translate(122.46,-229.81)" x="24.64" y="96.568" width="150.02" height="91.744" rx="6.6627" ry="6.5643" fill="#5a8dee"/>
+     <rect transform="translate(122.46,-229.81)" x="24.64" y="112.62" width="150.02" height="16.82" fill="#338fff"/>
+     <rect transform="translate(122.46,-229.81)" x="24.64" y="112.62" width="150.02" height="16.82" opacity=".3"/>
+     <rect transform="translate(122.46,-229.81)" x="38.867" y="141.93" width="121.57" height="8.1545" fill="#d6d6e3"/>
+     <ellipse transform="translate(122.46,-229.81)" cx="48.954" cy="170.47" rx="11.899" ry="11.724" fill="#338fff"/>
+     <ellipse transform="translate(122.46,-229.81)" cx="48.954" cy="170.47" rx="11.899" ry="11.724" opacity=".3"/>
+    </g>
+    <g transform="matrix(1.2383,0,0,1.2383,-12.315,8.0629)">
+     <g transform="matrix(.26458 0 0 .26458 141.85 -181.82)" opacity=".5">
+      <circle cx="352.52" cy="290.99" r="89.94" fill="url(#484e0702-271c-4dc9-aca2-bd1f83d5b37c)"/>
+     </g>
+     <circle cx="235.13" cy="-104.83" r="22.397" fill="#69f0ae" stroke-width=".26458"/>
+     <polygon transform="matrix(.26458 0 0 .26458 141.85 -181.82)" points="315.78 279.69 347.52 308.79 392.49 242.66 408.37 255.89 347.52 335.25 302.55 284.99" fill="#fff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
