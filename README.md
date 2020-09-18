@@ -8,4 +8,7 @@ Join  - [BLOG](https://fssquad.com/blog)
 
 Demo For You - [DEMO](https://sourcebincc.fssquad.com/)
 
+Demo on github.io - [DEMO](https://anon5ec.github.io/Source-Bin-CC-GEN/)
+
+
 ![alt text](https://i.ibb.co/8BxmJRS/Screenshot-1.jpg)
